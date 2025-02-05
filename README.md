@@ -4,10 +4,10 @@
 As perguntas e resposntas do teste estão na pasta QuestoesTeoricas em PDF
 
 ## Questões Práticas:
-Estão na pasta QuestoesTeoricas QuestoesPraticas em aquivos .py
+Estão na pasta QuestoesPraticas em aquivos .py
 
 ## Caso Prático
-Está na pasta QuestoesTeoricas CasoPratico em aquivos .py
+Está na pasta CasoPratico
 Como Executar o teste no Visual Studio Code?
 
 ### 1. Preparação do Ambiente
